@@ -1,2 +1,1 @@
-# TIPS_FOR_ME
-this is for future me.
+# This is for future me. 
