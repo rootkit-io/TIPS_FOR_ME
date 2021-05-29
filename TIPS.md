@@ -1,4 +1,4 @@
-> jesse
+> AUTHOR: Jesse 
 
 # STARTS NOW:
 
